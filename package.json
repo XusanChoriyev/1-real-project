@@ -1,0 +1,18 @@
+{
+  "name": "1-real-project",
+  "version": "1.0.0",
+  "description": "JavaScript from 0 to hero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "html"
+  ],
+  "author": "Xusan Choriyev",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
